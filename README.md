@@ -8,4 +8,4 @@ How I proceeded :
 
 3 : Creation of a fade animation for most of the content of my application. Set up of my welcome_page.dart.
 
-4 : 
+4 : I finish the welcome_page.dart and the social_page.dart (where you choose how to connect yourself). I set up the login_page.dart and I have connect the three pages. 

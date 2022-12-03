@@ -6,4 +6,6 @@ How I proceeded :
 
 2 : I clear the main.dart file, add the first images and packages (google_fonts, font_awesome_flutter).
 
-3 : 
+3 : Creation of a fade animation for most of the content of my application. Set up of my welcome_page.dart.
+
+4 : 

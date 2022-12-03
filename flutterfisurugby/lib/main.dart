@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutterfisurugby/delayed_animation.dart';
+import 'package:flutterfisurugby/welcome_page.dart';
+
 
 void main() {
   runApp(const MyApp());
@@ -10,12 +13,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'FISU Rugby',
       debugShowCheckedModeBanner: false,
-      home: Container(
-        color: Colors.blue,
-      )
-      );
+      home: WelcomePage(),
+    );
   }
 }
 

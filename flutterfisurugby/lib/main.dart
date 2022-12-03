@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutterfisurugby/delayed_animation.dart';
 import 'package:flutterfisurugby/welcome_page.dart';
 
+const primary_blue = const Color(0xFF3D5A80);
+const secondary_blue = const Color(0xFFE0FBFC);
+const primary_red = const Color(0xFFEE6C4D);
 
 void main() {
   runApp(const MyApp());
